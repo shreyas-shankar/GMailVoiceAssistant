@@ -1,0 +1,90 @@
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.pdb
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.Properties.Resources.resources
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.exe
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.pdb
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.csproj.ResolveComReference.cache
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.Home.resources
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.WikiSearchForm.resources
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.GoogleImageForm.resources
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe.config
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.YouTubeForm.resources
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.AccessControl.DLL
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Analytics.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Apps.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Blogger.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Calendar.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Client.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Contacts.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.ContentForShopping.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Documents.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Photos.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.WebmasterTools.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.YouTube.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\FreeSMTP.Net.dll
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\FreeSMTP.Net.xml
+C:\Users\Akash M\documents\visual studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.ComposeMailForm.resources
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Aspose.Email.dll
+C:\Users\Akash M\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Aspose.Email.xml
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe.config
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.csproj.ResolveComReference.cache
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.exe
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.pdb
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.pdb
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Aspose.Email.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Aspose.Email.xml
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\FreeSMTP.Net.xml
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.ComposeMailForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.Properties.Resources.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.WikiSearchForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.YouTubeForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\System.Data.SQLite.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\System.Data.SQLite.pdb
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.HomeForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.MailAuthenticationForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\EAGetMail40.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.RetreiveMailForm.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Analytics.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Apps.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Blogger.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Calendar.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Client.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Contacts.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.ContentForShopping.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Documents.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Extensions.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Photos.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.WebmasterTools.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Google.GData.YouTube.dll
+C:\Users\akash\Documents\Visual Studio 2010\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe.config
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.exe
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.exe
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\VirtualAssistant.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\Aspose.Email.xml
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\FreeSMTP.Net.xml
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.ComposeMailForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.HomeForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.MailAuthenticationForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.Properties.Resources.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.RetreiveMailForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.WikiSearchForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.YouTubeForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\obj\x86\Debug\VirtualAssistant.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\7th sem project files\Projects\VirtualAssistant\VirtualAssistant\bin\Debug\System.Data.SQLite.xml

@@ -1,0 +1,9 @@
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\bin\Debug\BoxSwitch.exe
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\bin\Debug\BoxSwitch.pdb
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\BoxSwitch.Form1.resources
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\BoxSwitch.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\BoxSwitch.exe
+c:\users\akash\documents\visual studio 2010\Projects\BoxSwitch\BoxSwitch\obj\x86\Debug\BoxSwitch.pdb

@@ -1,0 +1,59 @@
+Delivered-To: zarakifire@gmail.com
+Received: by 10.151.49.8 with SMTP id b8cs49018ybk;
+        Thu, 17 Mar 2011 07:10:08 -0700 (PDT)
+Received: by 10.236.182.40 with SMTP id n28mr1487396yhm.55.1300371008361;
+        Thu, 17 Mar 2011 07:10:08 -0700 (PDT)
+Return-Path: <notification@soccermanager.com>
+Received: from mail1.soccermanager.com (mail1.soccermanager.com [67.23.9.20])
+        by mx.google.com with ESMTP id 8si2585832yhx.252.2011.03.17.07.10.06;
+        Thu, 17 Mar 2011 07:10:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification@soccermanager.com designates 67.23.9.20 as permitted sender) client-ip=67.23.9.20;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of notification@soccermanager.com designates 67.23.9.20 as permitted sender) smtp.mail=notification@soccermanager.com; dkim=pass header.i=@soccermanager.com
+Received: from localhost (localhost [127.0.0.1])
+	by mail1.soccermanager.com (Postfix) with ESMTP id 922A912C023
+	for <zarakifire@gmail.com>; Thu, 17 Mar 2011 14:10:06 +0000 (GMT)
+X-DKIM: Sendmail DKIM Filter v2.8.2 mail1.soccermanager.com 922A912C023
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=soccermanager.com;
+	s=default; t=1300371006; bh=zZNbOn1t/2hSGLKmaQCHM9+M0KA=;
+	h=To:From:Reply-To:Subject:Date:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Message-ID;
+	b=CbCZTc51PZPcbfIQ3TEORUChtF/rAut6mwW9UiUcFUBcpZg87evHiAbjthmwSPlMe
+	 ij4LJswx+hJg7qrMoPnpxy1cc8adNNYHEWcNmpg07Nk3yntOTxaKN2GNwxHTTdKHCT
+	 ctR4HLURT2XsrFDlXmNiUb/biTfWworsPABkrRSg=
+To: zarakifire@gmail.com
+From: SoccerManager.com <notification@soccermanager.com>
+Reply-To: support@soccermanager.com
+Subject: SoccerManager.com Registration Confirmation
+Date: Thu, 17 Mar 2011 14:10:06 +0000
+X-LibVersion: 3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-17631747424d82163e922a94.66725890_=_"
+Content-Transfer-Encoding: 7bit
+Message-ID: <20110317141006.2283.1238469274.swift@mail1.soccermanager.com>
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-17631747424d82163e922a94.66725890_=_
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi zaraki,
+
+You recently registered for SoccerManager.com using this email address.
+
+To confirm your email address please click on the link below.
+http://www.soccermanager.com/confirm-email.php?x=zarakifire@gmail.com&y=20172eb19006ebb5a8e41729853e4c45&et=1
+
+If clicking the link doesn't work, try copying and pasting the whole address into the address bar of your browser.
+
+Regards,
+Soccer Manager Team
+------------------------------------------------------------------------
+NOTE: This email is never sent unsolicited.
+If you believe you received this email in error you can block and un-block emails from us: 
+http://www.soccermanager.com/emailblock.php?t=1&e=zarakifire@gmail.com&ui=20172eb19006ebb5a8e41729853e4c45
+
+--_=_swift-17631747424d82163e922a94.66725890_=_--
+

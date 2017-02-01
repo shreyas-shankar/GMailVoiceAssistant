@@ -1,0 +1,12 @@
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\bin\Debug\SqliteDatabase.exe.config
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\bin\Debug\SqliteDatabase.exe
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\bin\Debug\SqliteDatabase.pdb
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\bin\Debug\System.Data.SQLite.dll
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\bin\Debug\System.Data.SQLite.pdb
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\SqliteDatabase.Form1.resources
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\SqliteDatabase.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\SqliteDatabase.exe
+c:\users\akash\documents\visual studio 2010\Projects\SqliteDatabase\SqliteDatabase\obj\x86\Debug\SqliteDatabase.pdb

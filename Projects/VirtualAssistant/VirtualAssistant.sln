@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAssistant", "VirtualAssistant\VirtualAssistant.csproj", "{46D6888E-00C5-4341-93BF-60EF90E93534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D6888E-00C5-4341-93BF-60EF90E93534}.Debug|x86.ActiveCfg = Debug|x86
+		{46D6888E-00C5-4341-93BF-60EF90E93534}.Debug|x86.Build.0 = Debug|x86
+		{46D6888E-00C5-4341-93BF-60EF90E93534}.Release|x86.ActiveCfg = Release|x86
+		{46D6888E-00C5-4341-93BF-60EF90E93534}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

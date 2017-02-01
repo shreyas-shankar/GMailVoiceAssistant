@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailComposeFinal", "..\GmailComposeFinal\GmailComposeFinal\GmailComposeFinal.csproj", "{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|Any CPU.ActiveCfg = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|Any CPU.Build.0 = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|Itanium.ActiveCfg = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|Itanium.Build.0 = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|x86.ActiveCfg = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Debug|x86.Build.0 = Debug
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|Any CPU.ActiveCfg = Release
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|Any CPU.Build.0 = Release
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|Itanium.ActiveCfg = Release
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|Itanium.Build.0 = Release
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|x86.ActiveCfg = Release
+		{809EE5FE-B5E1-40BB-A4F8-D0EA1485E6FE}.Release|x86.Build.0 = Release
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|Itanium.Build.0 = Debug|Itanium
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|x86.ActiveCfg = Debug|x86
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Debug|x86.Build.0 = Debug|x86
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|Itanium.ActiveCfg = Release|Itanium
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|Itanium.Build.0 = Release|Itanium
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|x86.ActiveCfg = Release|x86
+		{63A0DB1F-6610-4ABF-8E81-7DE39140B77D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

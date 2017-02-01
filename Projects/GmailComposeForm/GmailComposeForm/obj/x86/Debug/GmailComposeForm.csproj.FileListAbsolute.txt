@@ -1,0 +1,12 @@
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\bin\Debug\GmailComposeForm.exe
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\bin\Debug\GmailComposeForm.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\bin\Debug\System.Data.SQLite.dll
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\bin\Debug\System.Data.SQLite.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GmailComposeForm.Form1.resources
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GmailComposeForm.Properties.Resources.resources
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GmailComposeForm.exe
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\obj\x86\Debug\GmailComposeForm.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeForm\GmailComposeForm\bin\Debug\GmailComposeForm.exe.config

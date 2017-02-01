@@ -1,0 +1,9 @@
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\bin\Debug\SpeechTest.exe
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\bin\Debug\SpeechTest.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\SpeechTest.Form1.resources
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\SpeechTest.Properties.Resources.resources
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\SpeechTest.exe
+C:\Users\akash\documents\visual studio 2010\Projects\SpeechTest\SpeechTest\obj\x86\Debug\SpeechTest.pdb

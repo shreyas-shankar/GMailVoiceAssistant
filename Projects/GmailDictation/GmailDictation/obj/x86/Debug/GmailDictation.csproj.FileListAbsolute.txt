@@ -1,0 +1,16 @@
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\bin\Debug\GmailDictation.exe
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\bin\Debug\GmailDictation.pdb
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.Form1.resources
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.exe
+c:\users\akash\documents\visual studio 2010\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.exe
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\bin\Debug\GmailDictation.exe
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\bin\Debug\GmailDictation.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.Form1.resources
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.Properties.Resources.resources
+C:\Users\user\Desktop\7th sem project files\Projects\GmailDictation\GmailDictation\obj\x86\Debug\GmailDictation.csproj.GenerateResource.Cache

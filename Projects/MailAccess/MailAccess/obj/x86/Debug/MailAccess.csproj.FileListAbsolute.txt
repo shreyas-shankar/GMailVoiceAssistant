@@ -1,0 +1,10 @@
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\bin\Debug\MailAccess.exe
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\bin\Debug\MailAccess.pdb
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\MailAccess.Form1.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\MailAccess.Properties.Resources.resources
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\MailAccess.exe
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\obj\x86\Debug\MailAccess.pdb
+C:\Users\akash\Documents\Visual Studio 2010\Projects\MailAccess\MailAccess\bin\Debug\EAGetMail40.dll

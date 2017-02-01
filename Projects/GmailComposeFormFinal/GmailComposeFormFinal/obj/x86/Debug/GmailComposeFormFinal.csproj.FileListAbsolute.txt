@@ -1,0 +1,16 @@
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\bin\Debug\GmailComposeFormFinal.exe
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\bin\Debug\GmailComposeFormFinal.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.Properties.Resources.resources
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.exe
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.pdb
+C:\Users\akash\documents\visual studio 2010\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.GmailComposeForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.exe
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.pdb
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.GmailComposeForm.resources
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.Properties.Resources.resources
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\obj\x86\Debug\GmailComposeFormFinal.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\bin\Debug\GmailComposeFormFinal.exe
+C:\Users\user\Desktop\7th sem project files\Projects\GmailComposeFormFinal\GmailComposeFormFinal\bin\Debug\GmailComposeFormFinal.pdb
